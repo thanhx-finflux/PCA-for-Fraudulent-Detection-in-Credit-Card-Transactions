@@ -25,3 +25,6 @@ The pipeline address financial risk management - high fraud recall, cost control
 - We use precision to evaluate the model performance, especially in fraud detection where false positives are more critical.
 - The f1-score is a good metric to evaluate the model performance in fraud detection, as it balances precision and recall.
 - The model is performing well in detecting fraudulent transactions with a high recall and precision.
+
+# Author
+Thanh Xuyen Nguyen - https://www.linkedin.com/in/xuyen-thanh-nguyen-0518/
