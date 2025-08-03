@@ -6,6 +6,11 @@ The pipeline address financial risk management - high fraud recall, cost control
 
 **Problem**: Detect traudulent credit card transactions (0 = legitimate, 1 = fraudulent) uisng a 30 feature dataset. PCA reduces dimensionlity for effeciency and visualization, minimizing financial risk.
 
+# Dataset
+- Source: Credit Card Fraud Detection dataset[](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+- License: CC0 1.0 Public Domain Dedication
+- Citation: Machine Learning Group - ULB
+
 **Dataset**: Kaggle's Credict Fruad Detection dataset (284,0807 transactions, 30 numerical features: V1-V28, Amount, Time, binary target Class, Fraud cases are rate 0.17% high imbalance.
 
 - 284,807 transactions, 30 features, no missing values, and about 0.4% duplicates.
